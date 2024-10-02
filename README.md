@@ -26,7 +26,7 @@
 
 [![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
 
-### ⚙️ &nbsp;Anoos's GitHub Analytics
+### ⚙️ &nbsp;Anoosragh's GitHub Analytics
 <p align="center">
 <a href="https://github.com/anoosragh69">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anoosragh69&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
@@ -35,6 +35,9 @@
 </p>
 
 <br>
+
+### ⚙️ &nbsp;Anoosragh's Holopin Board
+[![@anoosragh69's Holopin board](https://holopin.io/api/user/board?user=anoosragh69)](https://holopin.io/@anoosragh69)
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=anoosragh69&style=flat-square"/>
