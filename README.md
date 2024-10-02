@@ -5,7 +5,7 @@
 - 💞️ I’m an avid learner interested in Android Development.
 - 👀 I’m interested in Open source projects like AOSP.
 - 📱 Devices I own are motorola g(40) fusion.
-- 📱 I'm Actively maintaining custom AOSP (<a href="https://github.com/ProjectSakura>ProjectSakura</a>) for motorola g(40) fusion and Poco M6 Pro 5G.
+- 📱 I'm Actively maintaining custom AOSP (<a href="https://github.com/ProjectSakura">ProjectSakura</a>) for motorola g(40) fusion and Poco M6 Pro 5G.
 - ✔️ Looking forward to achieve something :)
 - 📫 You can reach me by my email address 'anoosragh69@gmail.com'.
 - 📫Lets Connect through <a href="https://www.linkedin.com/in/anoosragh69">LinkedIn</a>, <a href="https://twitter.com/anoosragh69">Twitter/X</a> or <a href="https://t.me/anoosragh69">Telegram</a>.
@@ -37,6 +37,6 @@
 <br>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=anoosragh69le=flat-square"/>
- <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%anoosragh69&longCache=true"/>
+ <img src="https://komarev.com/ghpvc/?username=anoosragh69&style=flat-square"/>
+ <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Danoosragh69&longCache=true"/>
 </p>
