@@ -8,7 +8,7 @@
 - 📱 I'm Actively maintaining custom AOSP (<a href="https://github.com/ProjectSakura">ProjectSakura</a>) for motorola g(40) fusion and Poco M6 Pro 5G.
 - ✔️ Looking forward to achieve something :)
 - 📫 You can reach me by my email address 'anoosragh69@gmail.com'.
-- 📫Lets Connect through <a href="https://www.linkedin.com/in/anoosragh69">LinkedIn</a>, <a href="https://twitter.com/anoosragh69">Twitter/X</a> or <a href="https://t.me/anoosragh69">Telegram</a>.
+- 📫 Lets Connect through <a href="https://www.linkedin.com/in/anoosragh69">LinkedIn</a>, <a href="https://twitter.com/anoosragh69">Twitter/X</a> or <a href="https://t.me/anoosragh69">Telegram</a>.
 
 ### 💻 Current Work Machine, Daily Driver Smartphone and working environments
 #### Lenovo LOQ 15IAX9
