@@ -1,7 +1,7 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Anoosragh A R!</h2>
 
 - 🌱 I’m a BCA student at Vellore Institute of Technology, Vellore.
-- 👀 Languages/Tools I know are C, Python, and Shell programming (bash).
+- 👀 Languages/Tools I know are C, C++, Python, and Shell programming (bash).
 - 💞️ I’m an avid learner interested in Android Development.
 - 👀 I’m interested in Open source projects like AOSP.
 - 📱 Devices I own are motorola g(40) fusion.
